@@ -1,4 +1,34 @@
 - commits:
+    - subject: Convert device-state module to typescript
+      hash: ce983956863d4158ba5fb131da5ce3812f508fcf
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Cameron Diver <cameron@balena.io>
+        signed-off-by: Cameron Diver <cameron@balena.io>
+      author: Cameron Diver
+    - subject: Improve application-manager typings
+      hash: cf116da6a8172549097f532e0825dcbd88094568
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Cameron Diver <cameron@balena.io>
+        signed-off-by: Cameron Diver <cameron@balena.io>
+      author: Cameron Diver
+    - subject: Improve and extend internal typings
+      hash: c4aa6b047e1b1c7f2c9934a33caf23c80e3d24d1
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Cameron Diver <cameron@balena.io>
+        signed-off-by: Cameron Diver <cameron@balena.io>
+      author: Cameron Diver
+  version: 10.6.33
+  date: 2020-01-29T15:13:43.403Z
+- commits:
     - subject: Set docker type and update CHANGELOG.md to the correct format
       hash: d1a3663d47b5e79c611929802c3a63b375e1a24f
       body: ''
